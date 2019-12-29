@@ -5,30 +5,12 @@
     <link>https://stanleyeze.github.io/</link>
       <atom:link href="https://stanleyeze.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Eze Stanley</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Eze Stanley</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019 Eze Stanley</copyright>
     <image>
       <url>https://stanleyeze.github.io/img/icon-192.png</url>
       <title>Eze Stanley</title>
       <link>https://stanleyeze.github.io/</link>
     </image>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://stanleyeze.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://stanleyeze.github.io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&#39;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://stanleyeze.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://stanleyeze.github.io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&#39;t need it.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
