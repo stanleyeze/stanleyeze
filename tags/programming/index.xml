@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming | Eze Stanley</title>
+    <link>https://stanleyeze.github.io/tags/programming/</link>
+      <atom:link href="https://stanleyeze.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>programming</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Eze Stanley</copyright><lastBuildDate>Thu, 02 Jan 2020 18:08:19 -0600</lastBuildDate>
+    <image>
+      <url>https://stanleyeze.github.io/img/icon-192.png</url>
+      <title>programming</title>
+      <link>https://stanleyeze.github.io/tags/programming/</link>
+    </image>
+    
+    <item>
+      <title>Basic Calculator</title>
+      <link>https://stanleyeze.github.io/project/basic-calculator/</link>
+      <pubDate>Thu, 02 Jan 2020 18:08:19 -0600</pubDate>
+      <guid>https://stanleyeze.github.io/project/basic-calculator/</guid>
+      <description>&lt;p&gt;Analyzing the individual performances of the musical duo Psquare using their separate Youtube channels based on the total views on all their videos. Psquare is an African music group that is made up of Peter(Peter&#39;s channel is MrPVEVO) and Paul (Paul&#39;s Channel is RudeboyVEVO).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

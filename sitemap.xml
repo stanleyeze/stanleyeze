@@ -23,7 +23,17 @@
   </url>
   
   <url>
+    <loc>https://stanleyeze.github.io/tags/programming/</loc>
+    <lastmod>2020-01-02T18:08:19-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stanleyeze.github.io/project/</loc>
+    <lastmod>2020-01-02T18:08:19-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanleyeze.github.io/tags/</loc>
     <lastmod>2020-01-02T18:08:19-06:00</lastmod>
   </url>
   
@@ -49,10 +59,6 @@
   
   <url>
     <loc>https://stanleyeze.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://stanleyeze.github.io/tags/</loc>
   </url>
   
 </urlset>
