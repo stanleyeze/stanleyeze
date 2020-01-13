@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hardware | Eze Stanley</title>
+    <link>https://stanleyeze.github.io/tags/hardware/</link>
+      <atom:link href="https://stanleyeze.github.io/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <description>hardware</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Eze Stanley</copyright><lastBuildDate>Mon, 13 Jan 2020 02:19:41 -0600</lastBuildDate>
+    <image>
+      <url>https://stanleyeze.github.io/img/icon-192.png</url>
+      <title>hardware</title>
+      <link>https://stanleyeze.github.io/tags/hardware/</link>
+    </image>
+    
+    <item>
+      <title>Iot Fish Farm Monitoring</title>
+      <link>https://stanleyeze.github.io/project/iot-fish-farm-monitoring/</link>
+      <pubDate>Mon, 13 Jan 2020 02:19:41 -0600</pubDate>
+      <guid>https://stanleyeze.github.io/project/iot-fish-farm-monitoring/</guid>
+      <description>&lt;p&gt;Fish farm water quality monitoring using the internet of things. This projects was build with Arduino micro-controller and nodeMCU wifi module.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

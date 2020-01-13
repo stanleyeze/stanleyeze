@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stanleyeze.github.io/categories/</loc>
-    <lastmod>2020-01-12T21:39:40-06:00</lastmod>
+    <loc>https://stanleyeze.github.io/</loc>
+    <lastmod>2020-01-13T02:19:41-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stanleyeze.github.io/</loc>
+    <loc>https://stanleyeze.github.io/tags/hardware/</loc>
+    <lastmod>2020-01-13T02:19:41-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanleyeze.github.io/project/iot-fish-farm-monitoring/</loc>
+    <lastmod>2020-01-13T02:19:41-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanleyeze.github.io/project/</loc>
+    <lastmod>2020-01-13T02:19:41-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanleyeze.github.io/tags/</loc>
+    <lastmod>2020-01-13T02:19:41-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanleyeze.github.io/categories/</loc>
     <lastmod>2020-01-12T21:39:40-06:00</lastmod>
   </url>
   
@@ -23,17 +43,7 @@
   </url>
   
   <url>
-    <loc>https://stanleyeze.github.io/project/</loc>
-    <lastmod>2020-01-12T21:39:40-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://stanleyeze.github.io/project/rock-scissors-paper/</loc>
-    <lastmod>2020-01-12T21:39:40-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stanleyeze.github.io/tags/</loc>
     <lastmod>2020-01-12T21:39:40-06:00</lastmod>
   </url>
   
