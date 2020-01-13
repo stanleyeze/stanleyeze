@@ -5,12 +5,21 @@
     <link>https://stanleyeze.github.io/categories/programming/</link>
       <atom:link href="https://stanleyeze.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     <description>Programming</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Eze Stanley</copyright><lastBuildDate>Thu, 02 Jan 2020 18:08:19 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Eze Stanley</copyright><lastBuildDate>Sun, 12 Jan 2020 21:39:40 -0600</lastBuildDate>
     <image>
       <url>https://stanleyeze.github.io/img/icon-192.png</url>
       <title>Programming</title>
       <link>https://stanleyeze.github.io/categories/programming/</link>
     </image>
+    
+    <item>
+      <title>Rock Scissors Paper (Java)</title>
+      <link>https://stanleyeze.github.io/project/rock-scissors-paper/</link>
+      <pubDate>Sun, 12 Jan 2020 21:39:40 -0600</pubDate>
+      <guid>https://stanleyeze.github.io/project/rock-scissors-paper/</guid>
+      <description>&lt;p&gt;Rock Paper Scissors Lizard Spock Game is an extended version of the classical Rock Paper Scissors game mentioned in the Season 2 of &amp;ldquo;Big Bang Theory&amp;rdquo; by Sheldon Cooper.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Basic Calculator</title>
@@ -22,7 +31,7 @@
     </item>
     
     <item>
-      <title>Web(youTube) Scrapping</title>
+      <title>Web(youTube) Scrapping (Pyhton)</title>
       <link>https://stanleyeze.github.io/project/webs_crapping/</link>
       <pubDate>Thu, 02 Jan 2020 18:08:19 -0600</pubDate>
       <guid>https://stanleyeze.github.io/project/webs_crapping/</guid>

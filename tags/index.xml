@@ -5,7 +5,7 @@
     <link>https://stanleyeze.github.io/tags/</link>
       <atom:link href="https://stanleyeze.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Eze Stanley</copyright><lastBuildDate>Thu, 02 Jan 2020 18:08:19 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Eze Stanley</copyright><lastBuildDate>Sun, 12 Jan 2020 21:39:40 -0600</lastBuildDate>
     <image>
       <url>https://stanleyeze.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>data_analysis</title>
-      <link>https://stanleyeze.github.io/tags/data_analysis/</link>
-      <pubDate>Thu, 02 Jan 2020 18:08:19 -0600</pubDate>
-      <guid>https://stanleyeze.github.io/tags/data_analysis/</guid>
+      <title>programming</title>
+      <link>https://stanleyeze.github.io/tags/programming/</link>
+      <pubDate>Sun, 12 Jan 2020 21:39:40 -0600</pubDate>
+      <guid>https://stanleyeze.github.io/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>programming</title>
-      <link>https://stanleyeze.github.io/tags/programming/</link>
+      <title>data_analysis</title>
+      <link>https://stanleyeze.github.io/tags/data_analysis/</link>
       <pubDate>Thu, 02 Jan 2020 18:08:19 -0600</pubDate>
-      <guid>https://stanleyeze.github.io/tags/programming/</guid>
+      <guid>https://stanleyeze.github.io/tags/data_analysis/</guid>
       <description></description>
     </item>
     
