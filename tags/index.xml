@@ -5,7 +5,7 @@
     <link>https://stanleyeze.github.io/tags/</link>
       <atom:link href="https://stanleyeze.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Eze Stanley</copyright><lastBuildDate>Mon, 13 Jan 2020 02:19:41 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Eze Stanley</copyright><lastBuildDate>Mon, 13 Jan 2020 19:49:45 -0600</lastBuildDate>
     <image>
       <url>https://stanleyeze.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>hardware</title>
-      <link>https://stanleyeze.github.io/tags/hardware/</link>
-      <pubDate>Mon, 13 Jan 2020 02:19:41 -0600</pubDate>
-      <guid>https://stanleyeze.github.io/tags/hardware/</guid>
+      <title>programming</title>
+      <link>https://stanleyeze.github.io/tags/programming/</link>
+      <pubDate>Mon, 13 Jan 2020 19:49:45 -0600</pubDate>
+      <guid>https://stanleyeze.github.io/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>programming</title>
-      <link>https://stanleyeze.github.io/tags/programming/</link>
-      <pubDate>Sun, 12 Jan 2020 21:39:40 -0600</pubDate>
-      <guid>https://stanleyeze.github.io/tags/programming/</guid>
+      <title>hardware</title>
+      <link>https://stanleyeze.github.io/tags/hardware/</link>
+      <pubDate>Mon, 13 Jan 2020 02:19:41 -0600</pubDate>
+      <guid>https://stanleyeze.github.io/tags/hardware/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,21 @@
     <link>https://stanleyeze.github.io/tags/programming/</link>
       <atom:link href="https://stanleyeze.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <description>programming</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Eze Stanley</copyright><lastBuildDate>Sun, 12 Jan 2020 21:39:40 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Eze Stanley</copyright><lastBuildDate>Mon, 13 Jan 2020 19:49:45 -0600</lastBuildDate>
     <image>
       <url>https://stanleyeze.github.io/img/icon-192.png</url>
       <title>programming</title>
       <link>https://stanleyeze.github.io/tags/programming/</link>
     </image>
+    
+    <item>
+      <title>Library App(Java)</title>
+      <link>https://stanleyeze.github.io/project/library-app/</link>
+      <pubDate>Mon, 13 Jan 2020 19:49:45 -0600</pubDate>
+      <guid>https://stanleyeze.github.io/project/library-app/</guid>
+      <description>&lt;p&gt;A simple java application for saving and retrieving book information(ISBN, Title, Author). Array list was used as a data store for saving book objects.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Rock Scissors Paper (Java)</title>
